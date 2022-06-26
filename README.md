@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**EngineerkimTech/EngineerkimTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KipmurkorDev/KipmurkorDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngineerkimTech&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerkimTech)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KipmurkorDev&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KipmurkorDev)](https://github.com/anuraghazra/github-readme-stats)
