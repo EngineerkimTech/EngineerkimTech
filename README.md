@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KipmurkorDev&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KipmurkorDev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KipmurkorDev&count_private=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KipmurkorDev&theme=dark)](https://git.io/streak-stats)
