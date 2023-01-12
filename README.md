@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KipmurkorDev&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KipmurkorDev&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KipmurkorDev&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KipmurkorDev&theme=dark)](https://git.io/streak-stats)
